@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactCounter/static/js/main.f2c780cb.js",
+    "index.html": "/reactCounter/index.html",
+    "main.f2c780cb.js.map": "/reactCounter/static/js/main.f2c780cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2c780cb.js"
+  ]
+}
