@@ -2,7 +2,6 @@ import React, { useState } from "react";
 
 const Object = () => {
     const [coins, setCoins] = useState({ gold: 0, silver: 0, bronze: 0 });
-    console.log(coins);
     function increaseGold() {
         setCoins({
             gold: coins.gold + 1,
