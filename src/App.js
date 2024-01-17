@@ -3,12 +3,13 @@ import Counter from "./components/Counter";
 import Object from "./components/Object";
 import Form from "./components/form";
 import Form2 from "./components/form2";
-import FormValidation from "./components/FormValidation"
+import FormValidation from "./components/FormValidation";
+import Fruits from "./components/Fruits";
 
 const App = () => {
     return (
         <div>
-            <Counter />
+            {/* <Counter />
             <br />
             <Object />
             <br />
@@ -17,7 +18,8 @@ const App = () => {
             <br />
             <Form2 />
             <br />
-            <FormValidation />
+            <FormValidation /> */}
+            <Fruits/>
         </div>
     );
 }
